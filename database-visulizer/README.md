@@ -1,6 +1,3 @@
-Sure, here is the content formatted as you would typically see in a README file:
-
-```markdown
 # Assignment Specification: Database Visualizer
 
 ## General Requirements:
@@ -114,5 +111,5 @@ Here's a more detailed list of SQL operations with corresponding endpoints:
 6. **Prisma Client**: Use Prisma
 
  Client to interact with the PostgreSQL database, ensuring all queries, inserts, updates, and deletes are handled through Prisma, leveraging its powerful features for database manipulation and query performance.
-```
+
 
